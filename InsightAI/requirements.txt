@@ -1,0 +1,11 @@
+semantic-kernel
+chromadb
+sentence-transformers
+rank-bm25
+python-dotenv
+pandas
+openai
+markdown
+playwright
+uvicorn
+fastapi
